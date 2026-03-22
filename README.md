@@ -21,7 +21,7 @@
 
 ### 🎭 **THE VISION**
 
-![TalentSeed Hero Image](https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=A%20futuristic%20dark%20cyberpunk%20talent%20discovery%20platform%20with%20neon%20green%20and%20purple%20colors%2C%20showing%20the%20tagline%20%22Stop%20Testing.%20Start%20Simulating.%22%20with%20a%20digital%20network%20background%2C%20professional%20UI%20design%2C%20clean%20typography&image_size=landscape_16_9)
+![TalentSeed Hero Image](https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=A%20dark%20cyberpunk%20talent%20discovery%20platform%20with%20TalentSwarm%20logo%20in%20green%20at%20top%20left%2C%20navigation%20bar%20with%20history%20button%2C%20Features%2C%20How%20it%20works%2C%20and%20Star%20button%20at%20top%20right%2C%20green%20AI-Powered%20Talent%20Discovery%20Engine%20BETA%20badge%2C%20large%20text%20%22Stop%20Testing.%20Start%20Simulating.%22%20with%20purple%20and%20blue%20gradient%2C%20Chinese%20subtitle%20%22停止枯燥测试%2C%20开始演算你的%201000%20种人生%22%2C%20input%20area%20prompt%2C%20four%20feature%20badges%20showing%201000%2B%20Agents%2C%20GraphRAG%2C%2050%2B%20Scenarios%2C%20Real-time%2C%20scroll%20to%20explore%20text%20at%20bottom%2C%20digital%20network%20background%20with%20neon%20dots%20and%20lines&image_size=landscape_16_9)
 
 </div>
 
