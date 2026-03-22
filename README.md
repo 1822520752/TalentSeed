@@ -21,7 +21,7 @@
 
 ### 🎭 **THE VISION**
 
-![Hero Image](https://raw.githubusercontent.com/1822520752/TalentSeed/main/public/images/hero-image.png)
+![TalentSeed Hero Image](https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=A%20futuristic%20dark%20cyberpunk%20talent%20discovery%20platform%20with%20neon%20green%20and%20purple%20colors%2C%20showing%20the%20tagline%20%22Stop%20Testing.%20Start%20Simulating.%22%20with%20a%20digital%20network%20background%2C%20professional%20UI%20design%2C%20clean%20typography&image_size=landscape_16_9)
 
 </div>
 
@@ -53,8 +53,6 @@
 ## 🔥 **CORE FEATURES | 核心功能**
 
 ### 🧠 **1. OCEAN PERSONALITY ENGINE | OCEAN 人格引擎**
-
-![OCEAN Personality Model](https://raw.githubusercontent.com/1822520752/TalentSeed/main/public/images/ocean-model2.png)
 
 | Trait | 中文 | What It Controls | 控制内容 |
 |:---:|:---:|:---|:---|
@@ -90,8 +88,6 @@
 ---
 
 ### 🌀 **3. EMERGENT BEHAVIOR DETECTION | 涌现行为检测**
-
-![Emergent Behavior Visualization](https://raw.githubusercontent.com/1822520752/TalentSeed/main/public/images/emergent-behavior.png)
 
 | Behavior | Trigger Condition | 触发条件 |
 |:---|:---|:---|
