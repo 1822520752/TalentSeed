@@ -19,6 +19,10 @@
 *Where Chaos Meets Intelligence. Where Potential Becomes Reality.*  
 *混沌与智能交汇之地。潜力成为现实之处。*
 
+### 🎭 **THE VISION**
+
+![Hero Image](https://raw.githubusercontent.com/1822520752/TalentSeed/main/public/images/hero-image.png)
+
 </div>
 
 ---
@@ -49,6 +53,8 @@
 ## 🔥 **CORE FEATURES | 核心功能**
 
 ### 🧠 **1. OCEAN PERSONALITY ENGINE | OCEAN 人格引擎**
+
+![OCEAN Personality Model](https://raw.githubusercontent.com/1822520752/TalentSeed/main/public/images/ocean-model.png)
 
 | Trait | 中文 | What It Controls | 控制内容 |
 |:---:|:---:|:---|:---|
@@ -84,6 +90,8 @@
 ---
 
 ### 🌀 **3. EMERGENT BEHAVIOR DETECTION | 涌现行为检测**
+
+![Emergent Behavior Visualization](https://raw.githubusercontent.com/1822520752/TalentSeed/main/public/images/emergent-behavior.png)
 
 | Behavior | Trigger Condition | 触发条件 |
 |:---|:---|:---|
