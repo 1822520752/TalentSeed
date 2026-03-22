@@ -54,7 +54,7 @@
 
 ### 🧠 **1. OCEAN PERSONALITY ENGINE | OCEAN 人格引擎**
 
-![OCEAN Personality Model](https://raw.githubusercontent.com/1822520752/TalentSeed/main/public/images/ocean-model.png)
+![OCEAN Personality Model](https://raw.githubusercontent.com/1822520752/TalentSeed/main/public/images/ocean-model2.png)
 
 | Trait | 中文 | What It Controls | 控制内容 |
 |:---:|:---:|:---|:---|
