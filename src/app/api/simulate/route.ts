@@ -4,9 +4,9 @@ import { NextRequest, NextResponse } from "next/server";
  * OpenAI API 配置
  */
 const API_CONFIG = {
-  baseURL: "https://api.longcat.chat/openai",
-  apiKey: process.env.OPENAI_API_KEY || "ak_2KO0NC2Mo49t4lG1dt3246JB0d04A",
-  model: "LongCat-Flash-Chat",
+  baseURL: process.env.OPENAI_BASE_URL || "https://api.longcat.chat/openai",
+  apiKey: process.env.OPENAI_API_KEY || "",
+  model: process.env.OPENAI_MODEL || "LongCat-Flash-Chat",
 };
 
 /**

@@ -147,11 +147,31 @@ cd TalentSeed
 # Install dependencies | 安装依赖
 npm install
 
+# Configure your API key | 配置你的 API 密钥
+cp .env.example .env.local
+# Edit .env.local and add your OPENAI_API_KEY
+# 编辑 .env.local 并添加你的 OPENAI_API_KEY
+
 # Launch the engine | 启动引擎
 npm run dev
 
 # Open http://localhost:3000
 # 打开 http://localhost:3000
+```
+
+### ⚙️ **Environment Variables | 环境变量**
+
+| Variable | Required | Description | 描述 |
+|:---|:---:|:---|:---|
+| `OPENAI_API_KEY` | ✅ | Your OpenAI-compatible API key | 你的 OpenAI 兼容 API 密钥 |
+| `OPENAI_BASE_URL` | ❌ | API endpoint (default: LongCat) | API 端点（默认：LongCat） |
+| `OPENAI_MODEL` | ❌ | Model name (default: LongCat-Flash-Chat) | 模型名称（默认：LongCat-Flash-Chat） |
+
+```bash
+# .env.local example | .env.local 示例
+OPENAI_API_KEY=your_api_key_here
+OPENAI_BASE_URL=https://api.openai.com/v1
+OPENAI_MODEL=gpt-4
 ```
 
 ---
